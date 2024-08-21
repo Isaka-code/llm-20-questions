@@ -1,4 +1,3 @@
-# %% [code]
 """llm20_config.py"""
 
 import os
