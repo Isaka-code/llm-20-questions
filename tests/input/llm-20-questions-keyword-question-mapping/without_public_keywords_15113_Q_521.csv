@@ -1,0 +1,7 @@
+keyword,score,question1?,question2?,question3?
+test,3.0,1,-1,1
+example,3.0,1,1,1
+sample,1.0,0,0,0
+test2,2.0,1,1,1
+example2,2.0,0,0,0
+sample2,1.0,0,0,0
