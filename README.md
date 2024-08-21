@@ -5,10 +5,12 @@ First and foremost, I would like to express my gratitude to the organizers, the 
 
 This solution integrates rule-based logic, keyword matching, and LLM context-based responses to achieve a high level of accuracy in identifying keywords.
 
-This solution achieved a public score of 1023.5 (highest) , securing 3rd place. The score was achieved with three wins as a guesser (Agent Alpha victories not included) , zero losses, and three draws. In a similar subsequent submission, it scored 982.9, remaining within the gold medal range, with three wins as a guesser (Agent Alpha victories not included) and one win as an answerer, consistently reaching the gold medal range. Although I was concerned about the potential gap with the private dataset due to the dataset switch, I’m pleased with the satisfactory score it achieved.
+This solution achieved a public score of 1023.5 (highest) , securing 3rd place. The score was achieved with three wins as a guesser (Agent Alpha victories not included) , zero losses, and three draws. In a similar subsequent submission, it scored 982.9, remaining within the gold medal range, with three wins as a guesser (Agent Alpha victories not included) and one win as an answerer, consistently reaching the gold medal range.
 
 ![public 3rd Place](https://github.com/Isaka-code/llm-20-questions/blob/main/images/public_3rd_place.png)
 
+
+[Note] The private score and ranking are currently being calculated.
 
 
 ## 2. Answer Agent
