@@ -1,3 +1,4 @@
+# %% [code]
 """llm20_llm_system.py"""
 
 import time
