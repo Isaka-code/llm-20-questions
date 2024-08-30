@@ -1,3 +1,4 @@
+# %% [code]
 """logger.py"""
 
 import logging
