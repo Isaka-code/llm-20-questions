@@ -1,4 +1,4 @@
-# 9th Place Solution - LLM 20 Questions
+# 9th Place Solution - [LLM 20 Questions](https://www.kaggle.com/competitions/llm-20-questions)
 
 ## 1. Introduction
 First and foremost, I would like to express my gratitude to the organizers, the Kaggle team, and all the participants. The familiar theme of the 20 Questions game made this competition particularly enjoyable to work on! Despite the task's relatively high implementation complexity, I managed to effectively develop it by splitting it into more than ten loosely coupled Python scripts and creating nearly a hundred test cases.
