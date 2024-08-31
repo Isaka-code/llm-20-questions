@@ -1,4 +1,4 @@
-# Nth Place Solution - LLM 20 Questions
+# 9th Place Solution - LLM 20 Questions
 
 ## 1. Introduction
 First and foremost, I would like to express my gratitude to the organizers, the Kaggle team, and all the participants. The familiar theme of the 20 Questions game made this competition particularly enjoyable to work on! Despite the task's relatively high implementation complexity, I managed to effectively develop it by splitting it into more than ten loosely coupled Python scripts and creating nearly a hundred test cases.
@@ -9,8 +9,10 @@ This solution achieved a public score of 1023.5 (highest) , securing 3rd place. 
 
 ![public 3rd Place](https://github.com/Isaka-code/llm-20-questions/blob/main/images/public_3rd_place.png)
 
+A few days before the evaluation period with the private keyword set ended, I reached a peak of 2nd place (with only a 0.7-point difference from 1st place, practically a margin of error). In the end, I finished 9th, but I’m very satisfied with earning a solo gold medal!
 
-[Note] The private score and ranking are currently being calculated.
+
+![private 9th Place](https://github.com/Isaka-code/llm-20-questions/blob/main/images/final_private_LB.png)
 
 
 ## 2. Answer Agent
@@ -175,6 +177,9 @@ I selected final submissions for the diversity:
 
 
 ## 8. Sharing Source Code and Datasets
+
+I'm happy to share the source code (on Kaggle, GitHub), test code, and datasets!
+
 ### 8.1 Source Code
 **Kaggle**
 - [Final Submission - LLM 20 Questions](https://www.kaggle.com/code/isakatsuyoshi/final-submission-llm-20-questions): Final submission notebook
