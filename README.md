@@ -167,8 +167,8 @@ Below are the counts of yes, no, and tie responses for each of the 1,497 public 
 - Keywords dataset split into Tier 1, 2, 3, and 4 to avoid reliance on a single dataset.
   - You can check the definition of the Tier is [here](https://www.kaggle.com/datasets/isakatsuyoshi/llm-20-questions-keyword-question-mapping)
   - Initial score 0.0 for Tier1, -0.5 for Tier2, -1.0 for Tier3 and -1.5 for Tier4
-  - Until Round 11, Tier 1 questions mainly targeted .
-  - Later rounds involve a dynamic exchange among top-scoring questions from all tiers, naturally expanding the dataset.
+  - Until Round 11, Tier 1 keywords mainly targeted .
+  - Later rounds involve a dynamic exchange among top-scoring keywords from all tiers, naturally expanding the dataset.
 
 **Final Submissions**:
 I selected final submissions for the diversity:
