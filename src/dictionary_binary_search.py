@@ -1,3 +1,4 @@
+# %% [code]
 """dictionary_binary_search.py"""
 
 import re

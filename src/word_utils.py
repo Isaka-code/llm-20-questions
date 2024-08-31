@@ -1,3 +1,4 @@
+# %% [code]
 """word_utils.py"""
 
 import string

@@ -1,3 +1,4 @@
+# %% [code]
 """formulas.py"""
 
 
